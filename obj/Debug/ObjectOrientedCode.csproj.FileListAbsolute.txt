@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ObjectOrientedCode\ObjectOrientedCode\bin\Debug\ObjectOrientedCode.exe.config
+C:\Users\user\source\repos\ObjectOrientedCode\ObjectOrientedCode\bin\Debug\ObjectOrientedCode.exe
+C:\Users\user\source\repos\ObjectOrientedCode\ObjectOrientedCode\bin\Debug\ObjectOrientedCode.pdb
+C:\Users\user\source\repos\ObjectOrientedCode\ObjectOrientedCode\obj\Debug\ObjectOrientedCode.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ObjectOrientedCode\ObjectOrientedCode\obj\Debug\ObjectOrientedCode.exe
+C:\Users\user\source\repos\ObjectOrientedCode\ObjectOrientedCode\obj\Debug\ObjectOrientedCode.pdb
